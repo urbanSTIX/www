@@ -1,0 +1,14 @@
+{
+  "name": "ubanSTIX_website",
+  "version": "1.0.0",
+  "main": "index.html",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+
+  },
+  "devDependencies": {
+  }
+}
